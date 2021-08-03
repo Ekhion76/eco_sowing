@@ -22,4 +22,4 @@ Működés:
 ![ecosowing_3](https://github.com/Ekhion76/eco_sowing/blob/main/eco_sowing/preview_images/eco_sowing_3.jpg)
 
 Video:
-- hamarosan
+https://youtu.be/hTD8nWIrEGI
