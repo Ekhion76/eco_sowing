@@ -14,6 +14,7 @@ Mentés alkalmával a szerveren is letárolja a koordinátákat egy dátummal el
 Működés:
 -	/sowing paranccsal be/ki kapcsol
 -	Bal CTRL folyamatos nyomva tartása közben állíthatóak az értékek
+-	Mentés gomb: fájlba írja a koordinátákat szerver oldalon és másolja a vágólapra is. CTRL+V -vel beilleszthető.
 
 
 ![ecosowing_1](https://github.com/Ekhion76/eco_sowing/blob/main/eco_sowing/preview_images/eco_sowing.jpg)
