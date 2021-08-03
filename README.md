@@ -1,6 +1,8 @@
 # eco_sowing
 FIVEM ESX Fejlesztői szkript négyzethálóba rendezett cp-k felvételére
 
+:pencil2: Tutya Discord elérhetősége (fejlesztő): HipnotikusAvasSzalonna#3252
+
 ECO SOWING
 Egyszerre akár 128 db (Fivem maximum ennyit jelenít meg) koordináta felvételére alkalmas négyzetrács elrendezésben. Követi a domborzatot, állítható a sorok, oszlopok száma és térközük.
 
