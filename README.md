@@ -1,5 +1,5 @@
 # eco_sowing
-[STANDALONE]FIVEM developer helper script to pick up coords in a square net
+[STANDALONE] FiveM developer helper script to pick up coords in a square net
 
 :pencil2: Tutya Discord elérhetősége (fejlesztő): HipnotikusAvasSzalonna#3252
 
