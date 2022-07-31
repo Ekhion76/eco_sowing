@@ -1,0 +1,87 @@
+<head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Play&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+
+<body>
+
+<!-- PAGES -->
+<div id="wrapper">
+
+    <!-- content -->
+    <a href="#" class="btnClose">CLOSE</a>
+    <p id="header">ECO SOWING</p>
+    <p class="header_desc">HOLD 'LEFT CTRL' -> FOCUS ON<br />MAX 128 MARKER SHOW</p>
+
+    <div class="paramSet">
+
+        <p class="paramHead">ROWS</p>
+
+        <div class="paramControl" data-var="xLine">
+            <span data-value="-1" class="pMinus">&lt;</span>
+            <span class="xLine pValue"></span>
+            <span data-value="1" class="pPlus">&gt;</span>
+        </div>
+    </div>
+
+    <div class="paramSet">
+
+        <p class="paramHead">COLUMNS</p>
+
+        <div class="paramControl" data-var="yLine">
+            <span data-value="-1" class="pMinus">&lt;</span>
+            <span class="yLine pValue"></span>
+            <span data-value="1" class="pPlus">&gt;</span>
+        </div>
+    </div>
+
+    <div class="paramSet">
+
+        <p class="paramHead">ROW SPACING</p>
+
+        <div class="paramControl" data-var="xDistance">
+            <span data-value="-1" class="pMinus">&lt;&lt;</span>
+            <span data-value="-0.1" class="pMinus">&lt;</span>
+            <span class="xDistance pValue"></span>
+            <span data-value="0.1" class="pPlus">&gt;</span>
+            <span data-value="1" class="pPlus">&gt;&gt;</span>
+        </div>
+    </div>
+
+    <div class="paramSet">
+
+        <p class="paramHead">COLUMN SPACING</p>
+
+        <div class="paramControl" data-var="yDistance">
+            <span data-value="-1" class="pMinus">&lt;&lt;</span>
+            <span data-value="-0.1" class="pMinus">&lt;</span>
+            <span class="yDistance pValue"></span>
+            <span data-value="0.1" class="pPlus">&gt;</span>
+            <span data-value="1" class="pPlus">&gt;&gt;</span>
+        </div>
+    </div>
+
+    <div class="paramSet">
+
+        <p class="paramHead">ROTATE</p>
+
+        <div class="paramControl" data-var="heading">
+            <span data-value="-5" class="pMinus">&lt;&lt;&lt;</span>
+            <span data-value="-1" class="pMinus">&lt;&lt;</span>
+            <span data-value="-0.1" class="pMinus">&lt;</span>
+            <span class="heading pValue"></span>
+            <span data-value="0.1" class="pPlus">&gt;</span>
+            <span data-value="1" class="pPlus">&gt;&gt;</span>
+            <span data-value="5" class="pPlus">&gt;&gt;&gt;</span>
+        </div>
+    </div>
+
+    <a href="#" class="saveBtn">Save coordinates to clipboard</a>
+</div>
+
+<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/app.js" type="text/javascript"></script>
+
+</body>
