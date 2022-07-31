@@ -17,9 +17,9 @@ Működés:
 -	Mentés gomb: fájlba írja a koordinátákat szerver oldalon és másolja a vágólapra is. CTRL+V -vel beilleszthető.
 
 
-![ecosowing_1](https://github.com/Ekhion76/eco_sowing/blob/main/eco_sowing/preview_images/eco_sowing.jpg)
-![ecosowing_2](https://github.com/Ekhion76/eco_sowing/blob/main/eco_sowing/preview_images/eco_sowing_2.jpg)
-![ecosowing_3](https://github.com/Ekhion76/eco_sowing/blob/main/eco_sowing/preview_images/eco_sowing_3.jpg)
+![ecosowing_1](https://github.com/Ekhion76/eco_sowing/blob/main/preview_images/eco_sowing.jpg)
+![ecosowing_2](https://github.com/Ekhion76/eco_sowing/blob/main/preview_images/eco_sowing_2.jpg)
+![ecosowing_3](https://github.com/Ekhion76/eco_sowing/blob/main/preview_images/eco_sowing_3.jpg)
 
 Video:
 https://youtu.be/hTD8nWIrEGI
