@@ -2,7 +2,8 @@
 [STANDALONE] FiveM developer helper script to pick up coords in a square net
 
 ECO SOWING
-Suitable for 128 coordinates at a time in a square grid layout. It follows the terrain, adjustable the number of rows, columns and space.
+Suitable for 128 coordinates at a time in a square grid layout. 
+It follows the terrain, adjustable the number of rows, columns and space.
 
 It can be used very well for, for example, for arable land.
 
@@ -10,7 +11,7 @@ Once the mesh is set, the coordinates are placed on the clipboard at the touch o
 When saving, you also store coordinates on the server in a file with a date.
 
 Use:
--	/sowing paranccsal be/ki kapcsol
+-	**/sowing** command start, show UI
 -	hold on to the left CTRL key and can be adjusted to values
 -	save button: Write the coordinates in the server side and copy it to the clipboard.
 - 	press ctrl+v in config file
