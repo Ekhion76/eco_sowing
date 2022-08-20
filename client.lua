@@ -74,7 +74,7 @@ Citizen.CreateThread(function()
 
                     if write then
 
-                        buffer = buffer .. ("{ ID, vector3(%s, %s, %s) },\n"):format(FormatCoord(x), FormatCoord(y), FormatCoord(z + 1))
+                        buffer = buffer .. ("vector3(%s, %s, %s),\n"):format(FormatCoord(x), FormatCoord(y), FormatCoord(z + 1))
                     end
 
                     DrawMarker(28, x, y, z + 0.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 1.0, 255, 255, 0, 255, false, false, 2, false, false, false, false)
