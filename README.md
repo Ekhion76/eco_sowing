@@ -9,7 +9,7 @@ It can be used very well for, for example, for arable land.
 Once the mesh is set, the coordinates are placed on the clipboard at the touch of a button so they can be inserted straight into the Config file.
 When saving, you also store coordinates on the server in a file with a date.
 
-Működés:
+Use:
 -	/sowing paranccsal be/ki kapcsol
 -	hold on to the left CTRL key and can be adjusted to values
 -	save button: Write the coordinates in the server side and copy it to the clipboard.
