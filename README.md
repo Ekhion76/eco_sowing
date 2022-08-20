@@ -1,23 +1,22 @@
 # eco_sowing
 [STANDALONE] FiveM developer helper script to pick up coords in a square net
 
-:pencil2: Tutya Discord elérhetősége (fejlesztő): HipnotikusAvasSzalonna#3252
-
 ECO SOWING
-Egyszerre akár 128 db (Fivem maximum ennyit jelenít meg) koordináta felvételére alkalmas négyzetrács elrendezésben. Követi a domborzatot, állítható a sorok, oszlopok száma és térközük.
+Suitable for 128 coordinates at a time in a square grid layout. It follows the terrain, adjustable the number of rows, columns and space.
 
-Nagyon jól használható például szántóföldek bevetéséhez. Úgy van kialakítva, hogy az ECO COLLECTING-el kompatibilis formátumban mentse a koordinátákat, így pár perc alatt újabb és újabb szántók válnak arathatóvá.
+It can be used very well for, for example, for arable land.
 
-Miután beállításra került a háló, a koordináták egy gombnyomásra a vágólapra kerülnek, így CTRL+V és beilleszthetőek egyenesen a config fájlba.
-Mentés alkalmával a szerveren is letárolja a koordinátákat egy dátummal ellátott fájlban.
+Once the mesh is set, the coordinates are placed on the clipboard at the touch of a button so they can be inserted straight into the Config file.
+When saving, you also store coordinates on the server in a file with a date.
 
 Működés:
 -	/sowing paranccsal be/ki kapcsol
--	Bal CTRL folyamatos nyomva tartása közben állíthatóak az értékek
--	Mentés gomb: fájlba írja a koordinátákat szerver oldalon és másolja a vágólapra is. CTRL+V -vel beilleszthető.
+-	hold on to the left CTRL key and can be adjusted to values
+-	save button: Write the coordinates in the server side and copy it to the clipboard.
+- 	press ctrl+v in config file
 
 
-![ecosowing_1](https://github.com/Ekhion76/eco_sowing/blob/main/preview_images/eco_sowing.jpg)
+![ecosowing_1](https://github.com/Ekhion76/eco_sowing/blob/main/preview_images/eco_sowing_1'.jpg)
 ![ecosowing_2](https://github.com/Ekhion76/eco_sowing/blob/main/preview_images/eco_sowing_2.jpg)
 ![ecosowing_3](https://github.com/Ekhion76/eco_sowing/blob/main/preview_images/eco_sowing_3.jpg)
 
